@@ -1,0 +1,2 @@
+cd doodle\cheers2019 ;
+docker build -t hrushirinka/cheers2019 
